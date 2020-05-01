@@ -2,7 +2,7 @@
 
 [image1]: tennis.png "Trained Agent"
 
-# Collaboration Competetion RL Example
+# Collaboration Competition RL Example
 
 ## Introduction
 
